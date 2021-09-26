@@ -1,6 +1,6 @@
 # wav2png
-wav file의 waveform을 PNG 파일(out.png)로 변환한다.
-다른 포맷의 파일은 ffmpeg을 사용하여 변환한다.
+This program convert wavform of wav file to image file as out.png. 
+For other formats, use ffmpeg as below.
 
 ## How to convert webm to wav
 ```sh
